@@ -70,7 +70,7 @@ This will run the test cases provided at the end of the file:
 - **Key Revocation:**
   The simple key revocation mechanism allows deletion of keys if they are found to be compromised, reducing the risk of unauthorized data decryption.
 
-## Link to Codespaces
-You can run this code in codespaces through the following link:
-https://effective-bassoon-4jjwjr69xrv92756r.github.dev/
+## Link to Run the code
+You can run this code in google collab through the following link:
+https://colab.research.google.com/drive/1tZAP_hWjSZKEtK85BqKSQTuB9DFFUxZi?usp=sharing
 
